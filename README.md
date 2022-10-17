@@ -1,2 +1,3 @@
 # SQLite-Base-Local-Android-Database
-SQLite-based android local database.
+
+The application includes DDL and DML (database language ) commands such as CREATE, SELECT, INSERT, UPDATE, DROP, DELETE, and ALTER.
